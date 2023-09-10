@@ -8,3 +8,4 @@ git branch - displays branches
 git log - displays all commits
 Git - Local repository
 GitHub - Remote repository
+conflict2
