@@ -6,3 +6,4 @@ git init - initialize git
 ## 2 Seminar
 git branch - displays branches
 git log - displays all commits
+GitHub - Remote repository
