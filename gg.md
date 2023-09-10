@@ -7,3 +7,4 @@ git init - initialize git
 git branch - displays branches
 git log - displays all commits
 Git - Local repository
+GitHub - Remote repository
