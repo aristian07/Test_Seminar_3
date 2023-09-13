@@ -10,3 +10,4 @@ Git - Local repository
 GitHub - Remote repository
 conflict2
 added local repository
+added distance repository
